@@ -27,6 +27,7 @@ public class ArrayListEx {
         l1.add("tisha");
         l1.add("aaa");
         l1.add("i am tisha nice to meet you!!!!!!!!!");
+        l1.add("this this pull change");
 
         // System.out.println(l1.get(2));
         // System.out.println(l1.set(2, "ggg"));
