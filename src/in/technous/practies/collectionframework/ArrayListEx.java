@@ -25,6 +25,7 @@ public class ArrayListEx {
         l1.add(12);
         l1.add("tisha");
         l1.add("aaa");
+        l1.add("local changes are done....");
 
         // System.out.println(l1.get(2));
         // System.out.println(l1.set(2, "ggg"));
