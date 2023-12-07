@@ -28,7 +28,7 @@ public class ArrayListEx {
         l1.add("aaa");
         l1.add("branch-11");
         l1.add("this this pull change111");
-
+        l1.add("this this pull change111");//new
 
 
         // System.out.println(l1.get(2));
